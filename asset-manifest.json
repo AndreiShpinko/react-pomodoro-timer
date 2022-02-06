@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react-pomodoro-timer/static/css/main.5107736e.css",
+    "main.js": "/react-pomodoro-timer/static/js/main.c0712d97.js",
+    "static/media/AC-DC - Highway To Hell.mp3": "/react-pomodoro-timer/static/media/AC-DC - Highway To Hell.648b70739a4be7cd2459.mp3",
+    "index.html": "/react-pomodoro-timer/index.html",
+    "main.5107736e.css.map": "/react-pomodoro-timer/static/css/main.5107736e.css.map",
+    "main.c0712d97.js.map": "/react-pomodoro-timer/static/js/main.c0712d97.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5107736e.css",
+    "static/js/main.c0712d97.js"
+  ]
+}
